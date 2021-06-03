@@ -1,1 +1,1 @@
-# ops243c_serial__data_collector
+# ops243c_serial_data_collector
